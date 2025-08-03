@@ -23,5 +23,6 @@ int main(){
 ### Parser
 Verifies the grammer of the given tokens according to a list of **Production Rules** (Haven't impled yet)
 ### References
-* ["Writing a C Compiler"](https://www.amazon.co.jp/-/en/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) - NORA SANDLER
-* [" EBNFの基本的な使い方や構文について詳しく解説 "](https://note.com/whale999_/n/nf837bc5f8ea1#b8149f51-ed8a-4154-80e1-c483a078553a) - Whale999
+* [Writing a C Compiler](https://www.amazon.co.jp/-/en/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) - NORA SANDLER
+* [EBNFの基本的な使い方や構文について詳しく解説](https://note.com/whale999_/n/nf837bc5f8ea1#b8149f51-ed8a-4154-80e1-c483a078553a) - Whale999
+* [Python Full Grammar specification](https://docs.python.org/3/reference/grammar.html)
